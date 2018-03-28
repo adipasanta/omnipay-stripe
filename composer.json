@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/stripe",
+    "name": "adipasanta/omnipay-stripe",
     "type": "library",
     "description": "Stripe driver for the Omnipay payment processing library",
     "keywords": [
@@ -26,7 +26,7 @@
         "psr-4": { "Omnipay\\Stripe\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~2.0"
+        "omnipay/common": "~3.0"
     },
     "require-dev": {
         "omnipay/tests": "~2.0"
